@@ -3,16 +3,9 @@
   "version": "0.5.4",
   "description": "Combine Javascript classes on the fly",
   "main": "mixen.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "main": "mixen.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:HubSpot/Mixen.git"
-  },
-  "scripts": {
-    "test": "grunt jasmine"
   },
   "keywords": [
     "mixen",
